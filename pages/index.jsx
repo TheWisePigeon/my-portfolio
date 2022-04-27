@@ -7,7 +7,7 @@ export default function Home() {
             <div className="flex items-center  justify-center h-screen lg:w-screen " >
                 <div className=" " >
                     <motion.div>
-                        <p className=" text-3xl md:text-7xl lg:text-8xl" >Hi, I'm Joseph</p>
+                        <p className=" text-3xl md:text-7xl lg:text-8xl" >Hi, I&#39;m Joseph</p>
                     </motion.div>
                     <span className=" md:text-3xl lg:text-3xl" >upcoming</span>
                     <p className=" text-3xl md:text-7xl lg:text-8xl " >Full Stack Developer</p>

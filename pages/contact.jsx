@@ -6,10 +6,10 @@ export default function Bye() {
         <>
             <div className="flex items-center  justify-center h-screen lg:w-screen " >
                 <div className=" text-center" >
-                    That's it. <br /> This portfolio will certainly change as I gain more experience and build more things. <br />
-                    I'm still looking for enterprise experience so in case you as a buiseness owner might be interested in my profile: <br />
+                    That&#39;s it. <br /> This portfolio will certainly change as I gain more experience and build more things. <br />
+                    I&#39;m still looking for enterprise experience so in case you as a buiseness owner might be interested in my profile: <br />
                     You can contact me <a href="mailto:josephdogbevi2002@gmail.com" className=" text-blue-700 ">here</a><br />
-                    Also check my <a href="https://github.com/TheWisePigeon" className=" text-blue-700 " >github profile</a>, for it's the most valuable proof of my skills and hard work
+                    Also check my <a href="https://github.com/TheWisePigeon" className=" text-blue-700 " >github profile</a>, for it&#39;s the most valuable proof of my skills and hard work
                 </div>
             </div>
             <div className=" bottom-0 fixed w-full  p-8 md:p-12 lg:p-16  " >
