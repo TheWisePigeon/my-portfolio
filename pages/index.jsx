@@ -22,21 +22,14 @@ export default function Home() {
                             </svg>
                         </button>
                     </Link>
-                    <Link href="/" passHref={true}>
+                    <Link href="/about" passHref={true}>
                         <button className=" rounded-full p-3  border border-white ">
                             <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                                 <path strokeLinecap="round" strokeLinejoin="round" d="M13 5l7 7-7 7M5 5l7 7-7 7" />
                             </svg>
                         </button>
                     </Link>
-
-
-
                 </div>
-
-
-
-
             </div>
         </>
     )
